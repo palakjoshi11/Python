@@ -1,4 +1,4 @@
 # Python
-Pythons codes
+Python codes
 #IN THIS REPOSITORY I'M ADDING SOME SMALL PROJECTS DEVELOPED IN PYTHON..
 
